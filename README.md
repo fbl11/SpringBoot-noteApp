@@ -5,4 +5,4 @@ Spring Boot
 PostgresQL
 JPA / Hibernate Restful CRUD API
 
-Follows this [guide](phttps://www.callicoder.com/spring-boot-rest-api-tutorial-with-mysql-jpa-hibernate/), replacing MySQL with PostgresQL.
+Follows this [guide](https://www.callicoder.com/spring-boot-rest-api-tutorial-with-mysql-jpa-hibernate/), replacing MySQL with PostgresQL.
